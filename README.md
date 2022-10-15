@@ -150,6 +150,3 @@ correct and incorrect labels
 STEP 15: CLASSIFICATION REPORT
 
 
-SOURCES:
-https://insightsimaging.springeropen.com/articles/10.1007/s13244-018-0639-9
-
